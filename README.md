@@ -12,7 +12,7 @@ The main objectives of the project are:
 - **Visualizing volatility dynamics** with News Impact Curves (NICs) and filtered conditional volatilities.
 - **Testing statistically** whether robust filtering and leverage effects are significant.
 - **Forecasting risk** through Monte Carlo simulation of future returns.
-- **Computing Value-at-Risk (VaR)** for 1-day, 5-day, and 20-day ahead horizons under different models.
+- **Computing Value-at-Risk (VaR)** for 1-day, 5-day, and 20-day ahead periods under different models.
 - **Backtesting** the accuracy of VaR forecasts to validate the model performance.
 
 ## Data
